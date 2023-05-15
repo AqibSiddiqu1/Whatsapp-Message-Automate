@@ -7,7 +7,7 @@ visibility: hidden;
 }</style>""", unsafe_allow_html=True)
 
 st.title("Whatsapp Message Automate ")
-st.image('/Users/aqibsiddiqui/Desktop/Github/Whatsapp-Message-Automate/WhatsApp.png', width=50)
+
 st.markdown("----")
 st.text("Hi!! I can help you to stay in touch with your contacts even when you're busy")
 
